@@ -101,7 +101,7 @@ int main() {
   }
   else if (choice == 18) {
 
-      std::cout << "Outlook not so good.\n";
+      std::cout << "NO\n";
 
   }
   else {
